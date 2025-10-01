@@ -1,0 +1,13 @@
+{
+    "description": "Personal linktree for b4k3d",
+    "domain": "is-a.dev",
+    "subdomain": "b4k3d",
+    "owner": {
+      "repo": "https://github.com/b4k3d",
+      "email": "r6nr6n@gmail.com"
+    },
+    "record": {
+      "redirect": "https://linktr.ee/b4k3d"
+    }
+  }
+  
